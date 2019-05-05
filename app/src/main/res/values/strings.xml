@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Clima App</string>
+    <string name="lblMenuAbouUs">Acerca de</string>
+
+    <array name="cities_array">
+        <item>El Salvador</item>
+        <item>London, UK</item>
+        <item>New York</item>
+        <item>Mexico</item>
+        <item>Sydney, Australia</item>
+    </array>
+
+    <string name="JsonURL" translatable="false">http://api.openweathermap.org/data/2.5/weather?q=#CITY#&amp;appid=a6394575a739b2dd246b1514e72e0b02</string>
+    <string name="ciudadInicial">El Salvador</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="descripcioninicio">Bienvenidos a App Clima</string>
+
+    <string name="skip">Skip</string>
+
+    <string name="skipuno">Aplicacion accesible</string>
+    <string name="skipdos">Datos en Tiempo Real</string>
+    <string name="skiptres">Diseño Elegante</string>
+    <string name="lblAddCityTitle">Agregar Ciudad</string>
+    <string name="lblButtoAddCity">Agregar Ciudad</string>
+    <string name="hintCityName">ej: London</string>
+    <string name="agregar">Agregar</string>
+    <string name="lblMenuAddCity">Agregar Ciudad</string>
+    <string name="AddCity_Toolbar_Title">Agregar Ciudad</string>
+    <string name="About_Toolbar_Title">Acerca de</string>
+    <string name="about_Title" translatable="false">Clima App</string>
+    <string name="About_Description">Clima App es una aplicación desarrollada en Kotlin con fines educativos. Todo el
+        código puede ser descargado de Github en:\n\n https://github.com/manasesortez \n\n Los Estudiantes desarrolladores son:\n
+        \n\n Manases Turcios Ortez ---u20171110  \n
+        \n Abner Esau Escobar --------u20181524 \n
+        \n Hugo Aaron Benitez --------u20170017 \n
+    </string>
+    <string name="lblmenuCodigoMainActivity" translatable="false">MainActivity.kt</string>
+    <string name="lblmenuCodigoAgregarCiudad" translatable="false">AgregarCiudad.kt</string>
+    <string name="lblmenuCodigoTutorial" translatable="false">Tutorial.kt</string>
+    <string name="lblmenuCodigoTutorialAbout" translatable="false">About.kt</string>
+
+    <string name="AsyncTaskError">Hubo un problema con los datos de esa ciudad.</string>
+    <string name="lblMenuShowCode">Ver Código</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+</resources>

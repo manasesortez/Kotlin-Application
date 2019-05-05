@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clima App</string>
+    <string name="lblMenuAbouUs">About this App</string>
+    <string name="lblMenuAddCity">Add City</string>
+    <string name="lblButtoAddCity">Add City</string>
+    <string name="lblAddCityTitle">Add City</string>
+    <string name="ciudadInicial">El Salvador</string>
+    <string name="AsyncTaskError">There was a problem with city information</string>
+    <string name="AddCity_Toolbar_Title">Add City</string>
+    <string name="hintCityName">ie: London</string>
+    <string name="agregar">Add</string>
+    <string name="siguiente">Next</string>
+    <string name="skip">Skip</string>
+    <string name="descripcioninicio">Welcome to App Clima</string>
+    <string name="skipuno">Accessible application</string>
+    <string name="skipdos">Real-time Data</string>
+    <string name="skiptres">Elegant Design</string>
+    <string name="About_Toolbar_Title">About</string>
+    <string name="About_Description">Clima App is an application developed in Kotlin for educational purposes. All the code can be downloaded from Github at: https://github.com/manasesortez \n\nThe student developers are:\n
+        \n\n Manases Turcios Ortez ---u20171110\n
+        \n Abner Esau Escobar --------u20181524\n
+        \n Hugo Aaron Benitez --------u20170017 \n
+    </string>
+    <string name="lblMenuShowCode">Show Code</string>
+</resources>
